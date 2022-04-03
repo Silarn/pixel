@@ -3,7 +3,7 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 4
+version = 5
 
 [priorities]
 "0" = 0
@@ -16,11 +16,11 @@ name = "wanderer"
 file = "images/wanderer.png"
 startx = 1978
 starty = 830
-priority = 2
+priority = 1
 
 [[structure]]
 name = "wave"
 file = "images/wave.png"
 startx = 1921
 starty = 776
-priority = 1
+priority = 3
