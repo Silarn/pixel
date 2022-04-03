@@ -32,9 +32,9 @@ priority = 3
 #starty = 1172
 #priority = 3
 
-[[structure]]
-name = "mona"
-file = "images/mona.png"
-startx = 1490
-starty = 1290
-priority = 2
+#[[structure]]
+#name = "mona"
+#file = "images/mona.png"
+#startx = 1490
+#starty = 1290
+#priority = 2
