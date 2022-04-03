@@ -1,6 +1,6 @@
-# Place DE pixel data
+# Place The Wave pixel data
 
-This repository tracks the current goals of the r/de place community.
+This repository tracks the current goals of the r/place_the_wave place community.
 
 Requires pillow, which can be installed using pip: `pip install pillow`
 
@@ -22,10 +22,10 @@ The format to add or change an entry in the config.toml (add as many blocks as y
 
 ```toml
 [[structure]]
-name = "maus"
-file = "maus.png"
-startx = 58
-starty = 832
+name = "wave"
+file = "images/wave.png"
+startx = 1921
+starty = 776
 priority = 1
 ```
 
