@@ -34,7 +34,7 @@ priority = 3
 
 [[structure]]
 name = "mona"
-file = "images/mona.webp"
+file = "images/mona.png"
 startx = 1490
 starty = 1290
 priority = 3
