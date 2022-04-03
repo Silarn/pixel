@@ -11,12 +11,12 @@ version = 4
 "2" = 5
 "3" = 10
 
-[[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-startx = 1978
-starty = 830
-priority = 1
+#[[structure]]
+#name = "wanderer"
+#file = "images/wanderer.png"
+#startx = 1978
+#starty = 830
+#priority = 1
 
 [[structure]]
 name = "wave"
