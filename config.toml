@@ -3,7 +3,7 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 5
+version = 6
 
 [priorities]
 "0" = 0
