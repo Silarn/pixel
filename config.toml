@@ -20,7 +20,7 @@ priority = 2
 
 [[structure]]
 name = "wave"
-file = "images/wave.png"
+file = "images/wave-crop.png"
 startx = 1921
 starty = 776
 priority = 3
