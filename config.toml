@@ -15,7 +15,7 @@ version = 6
 name = "wanderer"
 file = "images/wanderer.png"
 startx = 1979
-starty = 831
+starty = 830
 priority = 2
 
 [[structure]]
