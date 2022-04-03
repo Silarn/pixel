@@ -24,3 +24,10 @@ file = "images/wave.png"
 startx = 1921
 starty = 776
 priority = 3
+
+[[structure]]
+name = "kobowave"
+file = "images/kobowave.png"
+startx = 1332
+starty = 1172
+priority = 3
